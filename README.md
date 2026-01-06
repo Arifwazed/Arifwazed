@@ -1,6 +1,5 @@
-Hello!!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Header" />
+  <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Hi 👋, I'm Arif Wazed" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Arif Hamim</h1>
