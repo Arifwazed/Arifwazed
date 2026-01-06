@@ -2,6 +2,13 @@
   <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Hi 👋, I'm Arif Wazed" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Arif Hamim - Frontend Developer" />
+  <br />
+  <strong>🚀 Frontend Developer | React Enthusiast</strong>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Arif Hamim</h1>
 <h3 align="center">Frontend Web Developer | React Enthusiast</h3>
 
