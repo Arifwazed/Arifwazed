@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Hi 👋, I'm Arif Wazed" />
+  <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Arif Hamim | Frontend Developer" />
+<br />
+  <strong>🚀 Arif Hamim | Frontend Web Developer</strong>
 </p>
 
 <h1 align="center">Hi 👋, I'm Arif Hamim</h1>
