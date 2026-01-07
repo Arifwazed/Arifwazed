@@ -1,8 +1,16 @@
+
+<p align="center">
+  <img src="./Hello! I’m Arif wazed nice to meet you (1) (1).gif" alt="Arif Hamim | Frontend Developer" />
+<br />
+  <strong>🚀 Arif Hamim | Frontend Web Developer</strong>
+</p>
+
 <p align="center">
   <img src="./Hello! I’m Arif Wazed.gif" alt="Arif Hamim | Frontend Developer" />
 <br />
   <strong>🚀 Arif Hamim | Frontend Web Developer</strong>
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Arif Hamim</h1>
 <h3 align="center">Frontend Web Developer | React Enthusiast</h3>
