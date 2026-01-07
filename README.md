@@ -15,7 +15,7 @@
 * 🌱 MERN Stack Developer specializing in **MongoDB, Express, React, and Node.js**
 * 💡 Passionate about building **full-stack, scalable, and user-focused web applications**
 * 🚀 Working on real-world projects and improving problem-solving skills
-*     Experienced in developing real-world projects with authentication and REST APIs
+* 🚀 Experienced in developing real-world projects with authentication and REST APIs
 * 📍 Based in **Bangladesh**
 
 ---
