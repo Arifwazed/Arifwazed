@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently focusing on **Frontend Development (React, Tailwind CSS)**
+* 🌱 MERN Stack Developer specializing in **MongoDB, Express, React, and Node.js**
 * 💡 Interested in building **clean, user-friendly, and scalable UI**
 * 🚀 Working on real-world projects and improving problem-solving skills
 * 📍 Based in **Bangladesh**
