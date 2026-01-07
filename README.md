@@ -107,31 +107,31 @@ A scholarship management platform where students can explore and apply for schol
 ### 🌐 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" width="40" /> React &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="40" /> JavaScript &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" width="40" /> Tailwind CSS
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" /> Node.js &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" width="40" /> Express.js
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
 ### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> MongoDB
+  <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=47A248" />
 </p>
 
 ### 🧰 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" width="40" /> Git &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="40" /> GitHub &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" width="40" /> Firebase &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" /> VS Code
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -171,4 +171,5 @@ A scholarship management platform where students can explore and apply for schol
 ---
 
 <p align="center">✨ "Code. Learn. Improve. Repeat." ✨</p>
+
 
