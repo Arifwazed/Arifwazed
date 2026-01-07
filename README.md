@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skill Section
 
 * **Frontend:** React, JavaScript (ES6+), Tailwind CSS
 * **Backend:** Node.js, Express.js
