@@ -1,6 +1,12 @@
 
 
 <p align="center">
+  <img src="./Banner_image.gif" alt="Arif Hamim | Frontend Developer" />
+<br />
+  <strong>🚀 Arif Hamim | Frontend Web Developer</strong>
+</p>
+
+<p align="center">
   <img src="./banner.gif" alt="Arif Hamim | Frontend Developer" />
 <br />
   <strong>🚀 Arif Hamim | Frontend Web Developer</strong>
