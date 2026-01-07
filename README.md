@@ -20,6 +20,35 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Arif Hamim | Frontend Developer" />
+<br />
+  <strong>🚀 Arif Hamim | Frontend Web Developer</strong>
+</p>
+
+<h1 align="center">Hi 👋, I'm Arif Hamim</h1>
+<h3 align="center">MERN Stack Developer</h3>
+
+---
+
+## 👨‍💻 About Me
+
+* 🌱 MERN Stack Developer specializing in **MongoDB, Express, React, and Node.js**
+* 💡 Passionate about building **full-stack, scalable, and user-focused web applications**
+* 🚀 Experienced in developing real-world projects with authentication and REST APIs
+* 📍 Based in **Bangladesh**
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React, JavaScript (ES6+), Tailwind CSS
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, Firebase, VS Code
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
