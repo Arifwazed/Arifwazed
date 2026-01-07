@@ -195,7 +195,7 @@ A scholarship management platform where students can explore and apply for schol
 
 <p align="center"><em>Technologies I work with</em></p>
 
-<p align="center"><strong>🌐 Frontend:</strong>
+<p><strong>🌐 Frontend:</strong>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
@@ -218,39 +218,3 @@ A scholarship management platform where students can explore and apply for schol
 </p>
 
 ---
-
-## 📌 Featured Projects
-
-### 🎓 ScholarStream
-
-A scholarship management platform where students can explore and apply for scholarships.
-
-* 🔹 Role-based dashboard (Admin / User)
-* 🔹 Firebase Authentication & JWT Security
-* 🔹 Responsive UI with Tailwind CSS
-
-🔗 **Live Demo:** *Coming Soon*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 🌍 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
-
----
-
-<p align="center">✨ "Code. Learn. Improve. Repeat." ✨</p>
