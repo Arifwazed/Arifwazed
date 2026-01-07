@@ -5,8 +5,8 @@
   <strong>🚀 Md. Arif Wazed Hossain | Mern Stack Developer</strong>
 </p>
 
-<h1 align="center">Hi 👋, I'm Arif Hamim</h1>
-<h3 align="center">Frontend Web Developer | React Enthusiast</h3>
+<h1 align="center">🚀 Md. Arif Wazed Hossain</h1>
+<h3 align="center">Mern Stack Developer | React Enthusiast</h3>
 
 ---
 
