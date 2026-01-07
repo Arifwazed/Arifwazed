@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/header.gif" alt="Arif Hamim | Frontend Developer" />
+  <img src="./Hello! I’m Arif Wazed.gif" alt="Arif Hamim | Frontend Developer" />
 <br />
   <strong>🚀 Arif Hamim | Frontend Web Developer</strong>
 </p>
