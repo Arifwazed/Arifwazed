@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./Banner_image.gif" alt="Arif Hamim | Frontend Developer" />
+  <img src="./Banner_Images.gif" alt="Arif Hamim | Frontend Developer" />
 <br />
   <!-- <strong>🚀 Md. Arif Wazed Hossain | Mern Stack Developer</strong> -->
 </p>
