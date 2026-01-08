@@ -139,40 +139,8 @@ A scholarship management platform where students can explore and apply for schol
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
 </p>
 
----
 
-## 🌐 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 🌍 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
-
----
-
-<p align="center">✨ "Code. Learn. Improve. Repeat." ✨</p>
-
-## 📊 Contribution Statistics
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <strong>Languages Used</strong><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwazed&layout=compact&hide_border=true" alt="Languages Used" />
-    </td>
-    <td align="center" width="50%">
-      <strong>Streak Data</strong><br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-## 🐍 Contribution Graph Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arifwazed/arifwazed/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
-> ⚠️ **Note:** This animation requires a GitHub Action to generate the file automatically.
 
 
 
