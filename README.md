@@ -88,6 +88,13 @@ A scholarship management platform where students can explore and apply for schol
   />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=arifwazed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+    alt="Arif Wazed GitHub Stats"
+  />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
