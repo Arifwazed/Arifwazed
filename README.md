@@ -81,6 +81,12 @@ A scholarship management platform where students can explore and apply for schol
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed&theme=react" />
 </p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Arifwazed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
 ---
 
