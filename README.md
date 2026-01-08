@@ -73,7 +73,7 @@ A scholarship management platform where students can explore and apply for schol
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://stats-github-readme.vercel.app/api?username=arifwazed"
     alt="GitHub Stats"
@@ -85,7 +85,7 @@ A scholarship management platform where students can explore and apply for schol
     src="https://stats-github-readme.vercel.app/api?username=arifwazed&theme=dark&show_icons=true"
     alt="GitHub Stats"
   />
-</p>
+</p> -->
 
 <p align="center">
   <img
