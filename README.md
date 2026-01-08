@@ -94,24 +94,6 @@ A scholarship management platform where students can explore and apply for schol
   />
 </p>
 
-
----
-
-## 📊 Contribution Statistics
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <strong>Languages Used</strong><br/><br/>
-      <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=arifwazed&layout=compact" />
-    </td>
-    <td align="center">
-      <strong>Streak Data</strong><br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed" />
-    </td>
-  </tr>
-</table>
-
 <table align="center">
   <tr>
     <td align="center" width="50%" style="vertical-align:top;">
