@@ -109,18 +109,15 @@ A scholarship management platform where students can explore and apply for schol
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      **Languages Used**
-      <br /><br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwazed&layout=compact&hide_border=true" />
-      <br />
-      ![Languages Used](https://img.shields.io/badge/Languages_Used-3-blue?style=for-the-badge)
+    <td align="center">
+      <strong>Languages Used</strong><br/><br/>
+      <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=arifwazed&layout=compact" />
     </td>
-    <td align="center" width="50%">
-      **Streak Data**
-      <br /><br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed&hide_border=true" />
+    <td align="center">
+      <strong>Streak Data</strong><br/><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed" />
     </td>
   </tr>
 </table>
+
 
