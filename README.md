@@ -130,11 +130,3 @@ A scholarship management platform where students can explore and apply for schol
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
-</p>
