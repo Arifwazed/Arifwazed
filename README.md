@@ -116,7 +116,7 @@ A scholarship management platform where students can explore and apply for schol
   <tr>
     <td align="center" width="50%" style="vertical-align:top;">
       <strong>Languages Used</strong><br/><br/>
-      <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=arifwazed&layout=compact" alt="Languages Used" width="500" />
+      <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=arifwazed&layout=compact" alt="Languages Used" width="400" />
     </td>
     <td align="center" width="50%" style="vertical-align:top;">
       <strong>Streak Data</strong><br/><br/>
