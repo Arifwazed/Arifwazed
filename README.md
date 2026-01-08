@@ -90,10 +90,11 @@ A scholarship management platform where students can explore and apply for schol
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=arifwazed&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
-    alt="Arif Wazed GitHub Stats"
+    src="https://stats-github-readme.vercel.app/api?username=arifwazed"
+    alt="GitHub Stats"
   />
 </p>
+
 
 ---
 
