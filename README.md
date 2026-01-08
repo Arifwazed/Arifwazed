@@ -106,3 +106,35 @@ A scholarship management platform where students can explore and apply for schol
 ---
 
 <p align="center">✨ "Code. Learn. Improve. Repeat." ✨</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://stats-github-readme.vercel.app/api?username=arifwazed" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifwazed&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* 🌍 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
+
+---
+
+<p align="center">✨ "Code. Learn. Improve. Repeat." ✨</p>
+
