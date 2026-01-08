@@ -107,7 +107,7 @@ A scholarship management platform where students can explore and apply for schol
     </td>
     <td align="center">
       <strong>Streak Data</strong><br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed&theme=react" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed" />
     </td>
   </tr>
 </table>
