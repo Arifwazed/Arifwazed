@@ -151,6 +151,7 @@ A scholarship management platform where students can explore and apply for schol
     <td align="center" width="50%">
       <strong>Streak Data</strong><br/><br/>
       <img src="https://stats-github-readme.vercel.app/api?username=arifwazed&show_icons=true" alt="GitHub Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
