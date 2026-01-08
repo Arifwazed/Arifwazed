@@ -97,14 +97,6 @@ A scholarship management platform where students can explore and apply for schol
 
 ---
 
-## 🌐 Connect With Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* 🌍 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
-
----
-
 ## 📊 Contribution Statistics
 
 <table align="center">
@@ -119,3 +111,15 @@ A scholarship management platform where students can explore and apply for schol
     </td>
   </tr>
 </table>
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* 🌍 Portfolio: [https://your-portfolio.com](https://your-portfolio.com)
+
+---
+
+
