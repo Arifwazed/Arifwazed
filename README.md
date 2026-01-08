@@ -89,7 +89,7 @@ A scholarship management platform where students can explore and apply for schol
 
 <p align="center">
   <img
-    src="https://stats-github-readme.vercel.app/api?username=arifwazed&show_icons=true&theme=react&card_width=1000px"
+    src="https://stats-github-readme.vercel.app/api?username=arifwazed&show_icons=true&theme=react&card_width=2000px"
     alt="GitHub Stats"
   />
 </p>
