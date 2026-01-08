@@ -156,4 +156,105 @@ A scholarship management platform where students can explore and apply for schol
   </tr>
 </table>
 
+# Hi, I'm Arif Wazed 👋
+### MERN Stack Developer
+
+I build modern, responsive web applications using the **MERN stack**. Passionate about creating clean, efficient code and learning new technologies every day.
+
+---
+
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="left"><strong>🌐 Frontend</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><strong>⚙️ Backend</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><strong>🗄️ Database</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left"><strong>🧰 Tools</strong></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Contribution Statistics
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Languages Used</strong><br/><br/>
+      <!-- Mirror URL to avoid broken images -->
+      <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=arifwazed&layout=compact" alt="Languages Used" /><br/>
+      ![Languages Used](https://img.shields.io/badge/Languages_Used-3-blue?style=for-the-badge)
+    </td>
+    <td align="center" width="50%">
+      <strong>Streak Data</strong><br/><br/>
+      <!-- Self-hosted / mirror URL for reliability -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed&hide_border=true&v=2" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arifwazed/arifwazed/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+> ⚠️ **Note:** The animation requires a GitHub Action workflow in `.github/workflows/snake.yml` (see instructions below).
+
+---
+
+## 🔧 GitHub Action for Contribution Animation
+
+Create `.github/workflows/snake.yml` in your repo with this content:
+
+```yml
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: arifwazed
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
