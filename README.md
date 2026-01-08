@@ -103,11 +103,11 @@ A scholarship management platform where students can explore and apply for schol
   <tr>
     <td align="center">
       <strong>Languages Used</strong><br/><br/>
-      <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=arifwazed" />
+      <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=arifwazed&layout=compact" />
     </td>
     <td align="center">
       <strong>Streak Data</strong><br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifwazed&theme=react" />
     </td>
   </tr>
 </table>
