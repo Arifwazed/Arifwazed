@@ -72,7 +72,7 @@ A scholarship management platform where students can explore and apply for schol
 ---
 
 ## 📊 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arifwazed)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arifwazed)](https://github.com/Arifwazed/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arifwazed&show_icons=true&theme=react" />
 </p>
